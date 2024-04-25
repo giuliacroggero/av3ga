@@ -1,0 +1,6 @@
+# nome | quantidade de testes | us de execucao
+
+change.nasm 1 1000
+change_if.nasm 2 1000
+change_loop.nasm 2 1000
+
